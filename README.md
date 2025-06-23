@@ -22,13 +22,6 @@
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 ![Customer Risk Analysis](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/17438de8-0003-488f-8c98-5e2e918bd4b7)
 
-## **Beyond the Dashboard: Communication for Impact**
-Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails,
-I:
-- Shared important findings: Summarized data nicely focusing on what matters.
-- Tailored messages: Adjusted my language to match the client's knowledge level.
-- Suggested actions: Gave specific advice on what to do next.
-![Email](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
 
 
 **Get Started:**
