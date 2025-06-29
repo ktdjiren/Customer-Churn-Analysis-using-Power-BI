@@ -6,7 +6,7 @@
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
-![Customer Churn Dashboard] {https://github.com/ktdjiren/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer%20Churn%20Dashboard.png}
+![Customer Churn Dashboard](https://raw.githubusercontent.com/ktdjiren/Customer-Churn-Analysis-using-Power-BI/main/Customer%20Churn%20Dashboard.png)
 
 ## **Built with:**
 1. Power BI Desktop
