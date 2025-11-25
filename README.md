@@ -1,10 +1,9 @@
 
-
-# <div align="center">Telecom Customer Churn Prediction</div>
-
-![Intro](https://github.com/Pradnya1208/Telecom-Customer-Churn-prediction/blob/main/output/customer%20churn.jpeg?raw=true)
+# <div align="center">Customer Churn Prediction</div>
 
 
+
+---
 
 ## What is Customer Churn?
 Customer churn is defined as when customers or subscribers discontinue doing business with a firm or service.
@@ -33,6 +32,39 @@ To detect early signs of potential churn, one must first develop a holistic view
 ## Implementation:
 
 **Libraries:** sklearn, Matplotlib, pandas, seaborn, and NumPy
+
+🔮 **Predictive Churn Modeling**
+Forecast customer churn with intelligent insights to take timely, data-backed actions and retain valuable customers.
+
+🧬 **Smart Customer Segmentation**
+Categorize customers based on behavior and churn risk—fuel your marketing and service strategies with precision.
+
+![Customer Churn Dashboard](https://github.com/ktdjiren/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer%20Churn%20Dashboard.png)
+
+---
+
+## 🛠️ **Tools Used:**
+
+* Power BI Desktop
+* Microsoft Excel
+
+---
+
+## 📊 **Core Insights Uncovered:**
+
+Uncover actionable patterns and customer behavior signals to drive retention and loyalty.
+
+![key insights](https://github.com/ktdjiren/Customer-Churn-Analysis-using-Power-BI/blob/main/294774967-af60d484-23ad-4c03-ad5a-fc9af7ea0af4.png)
+
+---
+
+## 💼 **Business Benefits:**
+
+1. 🎯 **Minimize Customer Loss** – Detect churn trends early and act swiftly to retain high-risk customers.
+2. 🌟 **Boost Customer Satisfaction** – Use insights to personalize and elevate service experiences.
+3. 📈 **Make Smarter Decisions** – Drive strategic planning with powerful visual analytics.
+
+![Customer Risk Analysis](https://github.com/ktdjiren/Customer-Churn-Analysis-using-Power-BI/blob/main/Customer%20Risk%20Analysis.png)
 
 
 
